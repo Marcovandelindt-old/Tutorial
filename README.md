@@ -115,7 +115,7 @@
 
 <hr />
 
-# Edit your profile #
+# Edit your profile! #
 
 <p>Ofcourse, you can always edit your profile. You can upload a profile picture, change / add information about yourself and much more.
 Let's add a few details to our account!</p>
