@@ -1,11 +1,11 @@
 # How to use Github #
 <i>Made by Marco van de Lindt en Daan de Vos</i>
 <br />
-<h3>Nowadays almost every programmer uses, or at least knows, GitHub. GitHub is a webiste which makes it super simple for you to start projects, share projects with the rest of the world, and work together. Since we're using GitHub too, we took the time to make a tutorial for you, just to understand the basics of GitHub.</h3>
+<h3>Nowadays almost every programmer uses, or at least knows, GitHub. GitHub is a website which makes it super simple for you to start projects, share projects with the rest of the world, and work together. Since we're using GitHub too, we took the time to make a tutorial for you, just to understand the basics of GitHub.</h3>
 <p>First of all, let's open GitHub in our Browser. I highly doubt you haven't opened it already, since you're reading this tutorial right now.</p>
 <hr />
 # Setting up your account #
-<p>When you're not signed up for an account already, you can do that right know. Registering an account for GitHub is super easy, so let's do that right now. First, we pick our username. Choose something that's easy to remember, but also something you like. After that, you fill in you're email address. Use your real email address, because you have to verify your account after you registered! At last, let's choose a password. Use something that's easy for you to remember, but not too simple. </p>
+<p>When you're not signed up for an account already, you can do that right now. Registering an account for GitHub is super easy, so let's do that right now. First, we pick our username. Choose something that's easy to remember, but also something you like. After that, you fill in you're email address. Use your real email address, because you have to verify your account after you registered! At last, let's choose a password. Use something that's easy for you to remember, but not too simple. </p>
 
 <p>After you've signed up, you're redirected to a screen where you can choose what kind of account you would like. You can just use a free account, but if you're planning on using a lot of private repositories, the best choice for you will be the 7 dollar a month plan. After this, let's press the continue button.</p>
 
