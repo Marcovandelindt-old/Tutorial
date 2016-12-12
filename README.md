@@ -111,7 +111,7 @@
 
 <p>If you want to change the name of your rpository, you can do that in the first text-field. Below that, you can turn on or turn off some features. Below that section you can edit your merges. In this tutorial, we are not going to discuss that, since this is just a tutorial of the basics of GitHub. At the very bottom of the page, you have the so called <i><b>Danger Zone</b></i>. Here, you can make your repository puclic of private, depending on which of one the two your repository is right now. You can transfer your ownership to someone else and at last you can delete your repository. Since those changes can be pretty big, GitHub always asks for a confirmation when you want to change those settings.</p>
 
-<p>At the top of the page, on the left side, you also see a side-navigation. To check out what you can edit there, you have to figure that out yourself right now. 
+<p>At the top of the page, on the left side, you also see a side-navigation. To check out what you can edit there, you have to figure that out yourself right now. </p>
 
 <hr />
 
