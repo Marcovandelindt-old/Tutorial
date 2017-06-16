@@ -1,4 +1,35 @@
 # How to use Github #
+--
+{
+	"always_show_minimap_viewport": true,
+	"auto_complete": true,
+	"auto_match_enabled": true,
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+	"font_face": "Fira Code",
+	"font_size": 10,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"line_padding_bottom": 6,
+	"line_padding_top": 6,
+	"overlay_scroll_bars": "disabled",
+	"rulers":
+	[
+		80,
+		120
+	],
+	"tab_completion": false,
+	"tab_size": 4,
+	"theme": "Material-Theme.sublime-theme"
+}
+
+--
 <i>Made by Marco van de Lindt en Daan de Vos</i>
 <br />
 <h3>Nowadays almost every programmer uses, or at least knows, GitHub. GitHub is a website which makes it super simple for you to start projects, share projects with the rest of the world, and work together. Since we're using GitHub too, we took the time to make a tutorial for you, just to understand the basics of GitHub.</h3>
